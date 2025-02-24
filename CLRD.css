@@ -476,7 +476,7 @@ li::marker {
     font-size: 1rem;
     width: 25%;
     padding: 20px;
-    height: 40vh;
+    height: 400px;
 }
 
 .three_cont .british {
@@ -494,7 +494,7 @@ li::marker {
     font-size: 1rem;
     width: 25%;
     padding: 20px;
-    height: 40vh;
+    height: 400px;
 }
 
 .three_cont .german {
@@ -511,5 +511,5 @@ li::marker {
     font-size: 1rem;
     width: 25%;
     padding: 20px;
-    height: 40vh;
+    height: 400px;
 }
